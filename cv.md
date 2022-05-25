@@ -32,3 +32,14 @@ ___
 
         let result = sum(1, 2);
         alert( result );
+___
+
+## **Courses:**
+- HTML/CSS courses on [freecodecamp](https://www.freecodecamp.org/)
+- HTML/CSS/JS by mobile app [mimo](https://getmimo.com/)
+
+- HTML course on [sololern.com](https://www.sololearn.com/profile/1011740) ![Certificate](https://www.sololearn.com/Certificate/1014-1011740/jpg/)
+
+___
+## **Languages**
+Cuurently I'm learning english in [puzzle-english.com](https://puzzle-english.com/user#progress)

@@ -16,22 +16,22 @@ ___
 
    ___
 
-   ## **Skills:**
-   - HTML5
-   - CSS3/SASS/SCSS/GULP
-   - JavaScript(Fundamentals)
-   - Git/GitHub
-   - Figma/Avocode(for web development)
+## **Skills:**
+- HTML5
+- CSS3/SASS/SCSS/GULP
+- JavaScript(Fundamentals)
+- Git/GitHub
+- Figma/Avocode(for web development)
 
-   ___
+___
 
-   ## **Code Example:**
-        function sum(a, b) {
-        return a + b;
-        }
+## **Code Example:**
+    function sum(a, b) {
+    return a + b;
+    }
 
-        let result = sum(1, 2);
-        alert( result );
+    let result = sum(1, 2);
+    alert( result );
 ___
 
 ## **Courses:**
